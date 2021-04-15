@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.doraig:jcef:78.1-win64">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.doraig/jcef/78.1-win64/577e9943e2f3d1c24769ca47ed4b03fa5dc0b7bf/jcef-78.1-win64.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.doraig/jcef/78.1-win64/dceb2e6ec7b3ebe82fdca0fd3acf835fd795cce9/jcef-78.1-win64-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
